@@ -83,7 +83,7 @@ Currently, the program attaches the following metadata to the downloaded files:
 
 ## Philosophy
 
-When I made this program I was pretty much broke and my music addiction wasn't really helping that problem. So, I did the obvious thing: make an uber-complicated program to ~~steal~~ download music for me! As for the name, its acronym spells IRS, which I found amusing, seeing as the IRS ~~takes~~ steals money while my program ~~gives~~ reimburses you with music.
+When I made this program I was pretty much broke and my music addiction wasn't really helping that problem. So, I did the obvious thing: make an uber-complicated program to download music for me! As for the name, its acronym spells IRS, which I found amusing, seeing as the IRS  steals money while my program reimburses you with music.
 
 The design/style inspiration of the CLI goes to [k4m4](https://github.com/k4m4).
 
